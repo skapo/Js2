@@ -18,7 +18,6 @@
     
 
     var fileme = [
-        'https://bit.tube/play?hash=BRp5tEwigij9zc8DAEhw&channel=37042',
         'https://bit.tube/play?hash=BRenwDPKEriE4qpvYJ7P&channel=38479',
     ];
     
